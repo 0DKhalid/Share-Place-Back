@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "YOUR_DB_USER_NAME",
+    "DB_PASSWORD": "YOUR_DB_PASSWORD",
+    "DB_NAME": "YOUR_DB_NAME",
+    "GOOGLE_API_KEY": "YOUR_GOOGLE_API_KEY",
+    "JWT_SEC": "YOUR_JWT_SECRET"
+  }
+}
